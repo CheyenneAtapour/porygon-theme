@@ -1,0 +1,21 @@
+{
+  "name": "porygon-theme",
+  "displayName": "porygon-theme",
+  "description": "A light pastel theme inspired by the Pokemon Porygon",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "porygon-theme",
+        "uiTheme": "vs",
+        "path": "./themes/porygon-theme-color-theme.json"
+      }
+    ]
+  }
+}
