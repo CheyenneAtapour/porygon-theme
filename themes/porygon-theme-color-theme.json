@@ -249,8 +249,9 @@
     "editorCursor.foreground": "#4e342e",
     "editor.foreground": "#0D0D0D",
     "editorWhitespace.foreground": "#3B3A32",
-    "editor.lineHighlightBackground": "#FFF700",
-    "editor.selectionBackground": "#FFF04C"
+    "editor.lineHighlightBackground": "#ffd000",
+    "editor.selectionBackground": "#FFF04C",
+    "sideBar.background": "#e7ecec"
   },
   "name": "porygon-theme"
 }
